@@ -7,6 +7,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "HelloWorld.html",
+			"settings":
+			{
+				"buffer_size": 1424,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -53,6 +61,7 @@
 	],
 	"file_history":
 	[
+		"/C/AlanHe/html5/adayu/project.json",
 		"/C/Users/thinkpad/AppData/Roaming/Sublime Text 3/Packages/User/TortoiseSVN.sublime-settings",
 		"/C/AlanHe/html5/moss/js/start_scene.js",
 		"/C/AlanHe/html5/moss/HelloWorld.html",
@@ -113,8 +122,39 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "HelloWorld.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1424,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								572,
+								572
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
