@@ -1,0 +1,14 @@
+{
+    "project_type": "javascript",
+    "debugMode"     : 1,
+    "showFPS" : true,
+    "frameRate"     : 60,
+    "id"            : "gameCanvas",
+    "renderMode"    : 1,
+    "jsList"        : [
+    	"js/resource.js",
+    	"js/sushi_sprite.js",
+    	"js/start_scene.js",
+    	"js/play_scene.js"
+    ]
+}
